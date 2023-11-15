@@ -17,3 +17,6 @@ If you do not understand, please refer to the video.
 
 ![how-to-use](./sample.png)
 ![VIDEO](./how-to-use.mp4)
+
+### LICENSE
+If you would like to read the license for this program, please refer ![here](./LICENSE.md).
