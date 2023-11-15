@@ -12,4 +12,8 @@ Also, "CTRL+Q" is not a shortcut assigned to web browsers (at least, firefox and
 It also meets the requirement of interference with vimium, as I am creating it for an efficiencyist who does not like to use the mouse (lol).
 If you do not understand, please refer to the video.
 
-![how-to-use](./how-to-use.mp4)
+
+### Use JobHunting_Searcher
+
+![how-to-use](./sample.png)
+![VIDEO](./how-to-use.mp4)
